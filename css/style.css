@@ -310,6 +310,17 @@ form>div{ width:32px; height:48px; position:absolute;left:0px;top:0px;}
 .kkcontent>ul>li:last-child{ border:0;}
 .kkcontent>ul>li:hover a{ color:#ed671b}
 
+.ditu{ width:1145px;margin:30px auto; text-align:center; }
+.ditu>a{ display:inline-block; width:150px; height:40px; border-radius:5px; text-align:center; font-size:20px; line-height:40px; color:#fff; background:#ed671b;
+margin-bottom:30px; transition:.5s;}
+.ditu ul{ float:left; width:126px;text-align:center;}
+.ditu>ul li{height:30px; width:100px; border-radius:5px; background:#ed671b; margin:0 auto;font-size:14px; line-height:30px; transition:.5s; box-shadow:0 0 3px 0 #666; margin:2px 0;}
+.ditu>ul li a{ color:#fff;transition:.5s;}
+.ditu>ul li:first-child{ font-size:18px;height:35px;width:110px;}
+.ditu>ul li:hover{ background:#fff;}
+.ditu>ul li:hover a{ color:#ed671b; font-size:16px;}
+.ditu>ul li:nth-child(2n){ font-size:20px; line-height:20px; height:20px; background:#fff; color:#ed671b;box-shadow:none;}
+.ditu>a:hover{ color:#2f8ae7; font-size:22px;background:#fff;}
 
 
 
