@@ -320,7 +320,7 @@ margin-bottom:30px; transition:.5s;}
 .ditu>ul li:hover{ background:#fff;}
 .ditu>ul li:hover a{ color:#ed671b; font-size:16px;}
 .ditu>ul li:nth-child(2n){ font-size:20px; line-height:20px; height:20px; background:#fff; color:#ed671b;box-shadow:none;}
-.ditu>a:hover{ color:#2f8ae7; font-size:22px;background:#fff;}
+.ditu>a:hover{ color:#ed671b; font-size:22px;background:#fff;}
 
 
 
